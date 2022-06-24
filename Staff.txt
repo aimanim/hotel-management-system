@@ -1,0 +1,8 @@
+Employee1|   4525	Aiman		Chef	   07-Dec-2021	  5
+Employee2|   3363	Seher		Manager	   09-Mar-2019	  7
+Employee3|   4512	Alishba		Cleaner	   10-Jan-2020	  9
+Employee4|   2245	Hammad		Rcption	   15-Jul-2021	  6
+Employee5|   2669	Waris		Cleaner	   21-Feb-2022	  3
+Employee6|   4010	Hibbah		Rcption	   30-Oct-2019	  8
+
+

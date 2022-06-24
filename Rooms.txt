@@ -1,0 +1,12 @@
+Room1|	 01	Single		1         5000		-
+Room2|	 02	Double		1         7000		-
+Room3|	 03	Queen		0         12000		Aiman
+Room4|	 04	King		0         15000		Bilal
+Room5|	 05	Suite		1         20000		-
+Room6|	 06	Single		0         5000		Khalid
+Room7|	 07	Single		0         5000		Huzaifa
+Room8|	 08	Double		1         7000		-
+Room9|	 09	Double		1         7000		-
+Room10|	 10	Queen		0         12000		Shayan
+Room11|	 11	King		0         15000		Farah
+Room12|	 12	King		1         15000		-

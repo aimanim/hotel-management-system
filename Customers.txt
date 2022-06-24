@@ -1,0 +1,6 @@
+Customer2|   Aiman	F	  3	        36000	     0	             3
+Customer3|   Bilal	M	  1	        15000	     0	             4
+Customer4|   Khalid	M	  6	        30000	     0	             6
+Customer5|   Shayan	M	  5	        60000	     0	             10
+Customer6|   Farah	F	  2	        30000	     0	             11
+Customer7|   Huzaifa	M	  2	        10000	     0	             7
